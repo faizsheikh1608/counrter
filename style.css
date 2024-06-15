@@ -1,0 +1,27 @@
+*{
+    background-color: black;
+    padding: 10px;
+    margin: 0px;
+}
+
+h1{
+    color : white;
+}
+
+#output{
+    width : 25%;
+    color : rgb(216, 211, 211);
+    border-bottom: 1px solid rgb(216, 211, 211);
+    margin-bottom: 30px;
+}
+
+.indc{
+    background-color: white;
+    padding-inline: 30px;
+}
+
+#clear{
+    color :rgb(216, 211, 211);
+    border : 1px solid rgb(216, 211, 211);
+    padding-inline: 40px;
+}
